@@ -19,6 +19,8 @@ For more about me (Dan Carroll) click the *Bio* link above.
 
 ____
 
+<p>&nbsp;</p>
+
 This site is generated using the Ruby gem Jekyll and utilizes the 'Minima' Jekyll theme. You can find out more info about Jekyll by visiting the Jekyll documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:

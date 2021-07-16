@@ -14,9 +14,11 @@ GitHub also has a great resource in it's Pages. [GitHub Pages](https://pages.git
 And speaking of showcasing your work, the GitHub Pages are a great place to set up a portfolio of your own. That is something I have thought about for years but never took the time to implement. This page is part of that effort.
 
 Thank you [GitHub Team](https://github.com/about/leadership) for all of your hard work and allowing the rest of us to utilize this system to showcase our work!
-<p><br /></p>
-___
-<p><br /></p>
+
+For more about me (Dan Carroll) click the *Bio* link above.
+
+____
+
 This site is generated using the Ruby gem Jekyll and utilizes the 'Minima' Jekyll theme. You can find out more info about Jekyll by visiting the Jekyll documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:

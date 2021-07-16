@@ -17,6 +17,8 @@ Thank you [GitHub Team](https://github.com/about/leadership) for all of your har
 
 For more about me (Dan Carroll) click the *Bio* link above.
 
+<p>&nbsp;</p>
+
 ____
 
 <p>&nbsp;</p>

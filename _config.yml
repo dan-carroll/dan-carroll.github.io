@@ -5,7 +5,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my GitHub gateway. This is the personal frontpage of Dan Carroll 
   for his GitHub activities and to showcase his work and interests. This site 
-  is created and maintained with Jekyll: <https://jekyllrb.com/>.
+  is created and maintained with Jekyll: [<https://jekyllrb.com/>](https://jekyllrb.com/).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: dan-carroll-in-florida

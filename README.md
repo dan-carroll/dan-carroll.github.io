@@ -1,5 +1,5 @@
 # dan-carroll.github.io
-[Dan Carroll's Github Pages](https://github.com/dan-carroll/dan-carroll.github.io)
+[Dan Carroll's Github Pages](https://github.com/dan-carroll.github.io)
 -------------------------
 These pages are the gateway into Dan Carroll's online world. Included are my GitHub activities as well as work on other sites. This site is created and maintained with Jekyll: <https://jekyllrb.com/>.
 

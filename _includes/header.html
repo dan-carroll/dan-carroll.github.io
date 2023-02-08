@@ -4,7 +4,8 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      <img src="{{ "/assets/img/Dan-Carroll-on-github.png" | relative_url }}" alt="{{ site.title | escape }}" width="50%" height="50%" style="vertical-align: auto;">
+      <img src="{{ "/assets/img/Dan-Carroll-on-github.png" | relative_url }}"
+       alt="{{ site.title | escape }}" width="50%" height="50%" style="vertical-align: bottom;">
     </a>
 
     {%- if page_paths -%}

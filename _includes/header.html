@@ -3,9 +3,9 @@
   <div class="wrapper" style=" line-height: 64px; clear:both; overflow:auto;">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}"style="float: left; display: inline;">
       <img src="{{ "/assets/img/Dan-Carroll-on-github.png" | relative_url }}"
-       alt="{{ site.title | escape }}" width="50%" height="50%" style="float: left; display: inline;">
+       alt="{{ site.title | escape }}" width="50%" height="50%">
     </a>
 
     {%- if page_paths -%}

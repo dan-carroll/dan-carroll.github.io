@@ -21,7 +21,6 @@ blog2_title: 365 Day Graphic Design Challenge
 blog2_url: https://dan-carroll.github.io/graphic-design-challenge/
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 

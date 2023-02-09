@@ -1,15 +1,16 @@
 <header class="site-header" role="banner">
 
-  <div class="wrapper" style=" line-height: 64px; clear:both; overflow:auto;">
+  <div class="wrapper" style="line-height: 64px;">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}"style="float: left; display: inline;">
-      <img src="{{ "/assets/img/Dan-Carroll-on-github.png" | relative_url }}"
-       alt="{{ site.title | escape }}" width="50%" height="50%">
-    </a>
 
     {%- if page_paths -%}
-      <nav class="site-nav">    
+      <nav class="site-nav" style="clear:both; overflow:auto;">
+        <a class="site-title" rel="author" href="{{ "/" | relative_url }}" style="float: left; display: inline;">
+          <img src="{{ "/assets/img/Dan-Carroll-on-github.png" | relative_url }}"
+           alt="{{ site.title | escape }}" width="50%" height="50%">
+        </a>
+    
         <input type="checkbox" id="nav-trigger" class="nav-trigger">
         <label for="nav-trigger" style="float:right">
           <span class="menu-icon">
@@ -23,10 +24,10 @@
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            <a class="page-link" href="{{ my_page.url | relative_url }}" style="float:right">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
-          <a class="page-link" href="https://dan-carroll.github.io/dan-carroll-bio/">BIO</a>
+          <a class="page-link" href="https://dan-carroll.github.io/dan-carroll-bio/" style="float:right">BIO</a>
         </div>
       </nav>
     {%- endif -%}

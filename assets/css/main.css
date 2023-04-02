@@ -86,9 +86,9 @@ table td { border: 1px solid #e8e8e8; }
 
 .site-title, .site-title:visited { color: #424242; }
 
-.header-logo { grid-column: 1; float: left; line-height: 54px; }
+.header-logo { grid-column: 1; }
 
-.site-nav { grid-column: 1; float: right; line-height: 54px; }
+.site-nav { grid-column: 2; line-height: 54px; }
 
 .site-nav .nav-trigger { display: none; }
 

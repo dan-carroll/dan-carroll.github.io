@@ -107,20 +107,21 @@ table td { border: 1px solid #e8e8e8; }
 
 /* Dropdown button */
 .dropdown .dropbtn {
-  font-size: 16px;
+  font-size: inherit;
   border: none;
   outline: none;
   color: inherit;
-  padding: 7px 8px;
+  padding: .5rem;
   background-color: inherit;
   font-family: inherit; /* Important for vertical align on mobile phones */
   margin: 0; /* Important for vertical align on mobile phones */
+  line-height: 1.5; float: right;
 }
 
 /* Add a red background color to navbar links on hover */
 .navbar a:hover, .dropdown:hover .dropbtn {
   color: white;
-  background-color: red;
+  background-color: #98AFC7;
 }
 
 /* Dropdown content (hidden by default) */

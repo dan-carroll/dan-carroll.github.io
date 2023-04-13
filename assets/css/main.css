@@ -110,7 +110,7 @@ table td { border: 1px solid #e8e8e8; }
   font-size: 16px;
   border: none;
   outline: none;
-  color: white;
+  color: inherit;
   padding: 7px 8px;
   background-color: inherit;
   font-family: inherit; /* Important for vertical align on mobile phones */
@@ -119,6 +119,7 @@ table td { border: 1px solid #e8e8e8; }
 
 /* Add a red background color to navbar links on hover */
 .navbar a:hover, .dropdown:hover .dropbtn {
+  color: white;
   background-color: red;
 }
 

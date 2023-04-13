@@ -103,6 +103,11 @@ table td { border: 1px solid #e8e8e8; }
   background-color: #ddd;
 }
 
+.dropdown button:hover {
+  background-color: #ddd;
+}
+
+
 /* The dropdown container */
 .dropdown {
   float: right;

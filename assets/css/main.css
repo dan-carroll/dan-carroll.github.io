@@ -135,7 +135,7 @@ table td { border: 1px solid #e8e8e8; }
 .dropdown-content a {
   float: none;
   color: black;
-  padding: .5rem;
+  padding: .25rem;
   text-decoration: none;
   display: block;
   text-align: left;

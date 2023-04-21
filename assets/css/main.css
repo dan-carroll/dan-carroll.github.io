@@ -101,13 +101,9 @@ table td { border: 1px solid #e8e8e8; }
   background-color: #ddd;
 }
 
-/* The dropdown container */
-.dropdown, .page-link {
-  float: right;
-}
-
 /* Dropdown button */
-.dropdown .dropbtn, .site-nav .page-link {
+a.dropbtn, a.page-link {
+  float: right;
   font-size: inherit;
   border: none;
   outline: none;
@@ -117,10 +113,6 @@ table td { border: 1px solid #e8e8e8; }
   font-family: inherit; /* Important for vertical align on mobile phones */
   margin: 0; /* Important for vertical align on mobile phones */
   line-height: 1.5;
-}
-
-.dropdown button:hover {
-  background-color: #ddd;
 }
 
 /* Dropdown content (hidden by default) */

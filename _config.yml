@@ -15,10 +15,15 @@ github_username:  dan-carroll
 instagram_username: dcarroll809
 
 # My Add-Ins
-blog1_title: Rather Be Coding
-blog1_url: https://ratherbecoding.dmcarroll.net/
+blog1_title: Dan Reads
+blog1_url: https://dan-carroll.github.io/danreads/
 blog2_title: 365 Day Graphic Design Challenge
 blog2_url: https://dan-carroll.github.io/graphic-design-challenge/
+blog3_title: My Python Pages
+blog3_url: https://dancarroll.pythonanywhere.com/
+blog4_title: Rather Be Coding
+blog4_url: #
+
 
 # Build settings
 plugins:

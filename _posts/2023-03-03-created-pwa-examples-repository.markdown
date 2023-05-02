@@ -9,5 +9,8 @@ Created a PWA Examples repository to showcase code and examples of progressive w
 
 I will be starting off with examples and tutorials created by others. Once I get some experience with PWAs, I have some ideas for projects of my own. So follow along with me as I explore the creation and use of PWAs. This should be fun.
 
-[PWA Examples Github Repository](https://github.com/dan-carroll/pwa-examples)
-[PWA Examples web page](https://dan-carroll.github.io/pwa-examples/)
+|[PWA Examples Github Repository](https://github.com/dan-carroll/pwa-examples)|
+|---|
+
+|[PWA Examples web page](https://dan-carroll.github.io/pwa-examples/)|
+|---|

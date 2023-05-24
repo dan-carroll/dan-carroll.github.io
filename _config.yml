@@ -7,7 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   for his GitHub activities and to showcase his work and interests. This site 
   is created and maintained with [Jekyll](https://jekyllrb.com/).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dan-carroll.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: G-9F0N5QZNRB
 linkedin_username: dan-carroll-in-florida
 twitter_username: FloriDanOnline

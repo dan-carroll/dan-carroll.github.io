@@ -50,6 +50,11 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > The title above says it all. Follow this link to the GitHub project itself: [https://github.com/dan-carroll/online-development-books](https://github.com/dan-carroll/online-development-books).
 
+- [jQuery Fundamentals](https://dan-carroll.github.io/jquery-fundamentals/) by Rebecca Murphey
+
+   > The original book and derivatives are available here along with my revised (in the works) edition, which is meant to bring Rebecca Murphey's original work up to date. jQuery version 3.7 is the current version with 4.0 to be released soon. The project repository is here: [https://github.com/dan-carroll/jquery-fundamentals](https://github.com/dan-carroll/jquery-fundamentals).
+
+
 
 # License
 

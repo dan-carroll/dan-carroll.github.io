@@ -39,6 +39,16 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > My blog about programming. Details and the blog itself is coming (back). Temporarily offline at the moment.
 
+## My GitHub Projects
+
+   > These may not be original works of mine. Could be forkings of interesting projects I wanted to play around with. Or could be projects created from some of the lessons in the GitHub Lab. This is an attempt to organize things a bit here on GitHub.
+
+- [https://github.com/dan-carroll/dan-carroll](https://github.com/dan-carroll/dan-carroll)
+   > The README file here is tied to [my GitHub profile page](https://github.com/dan-carroll) and shows up there.
+
+- [Collection of Development Books Available to Read Online](https://dan-carroll.github.io/online-development-books/)
+
+   > The title above says it all. Follow this link to the GitHub project itself: [https://github.com/dan-carroll/online-development-books](https://github.com/dan-carroll/online-development-books).
 
 
 # License

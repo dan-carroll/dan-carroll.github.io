@@ -72,6 +72,25 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > Project to create scaffolding, or possibly a template, to wrap around README files for presentation on the web.
 
+- [python-bottle-snippets](https://dan-carroll.github.io/python-bottle-snippets/)
+
+   > Collection of code snippets for the bottle web framework. And a list of bottle-python tutorials. Plus list of other bottle-python projects on GitHub.  
+   > [This project's GitHub repository](https://github.com/dan-carroll/python-bottle-snippets)
+
+- [Python Projects](https://dan-carroll.github.io/python-projects/)
+
+   > Python projects from books, tutorials, and my own creativity.  
+   > [This project's GitHub repository](https://github.com/dan-carroll/python-projects)
+
+- [browser-navigation-examples](https://dan-carroll.github.io/navigation-examples/)
+
+   > Test and showcase differing current methods of browser navigation.  
+   > [This project's GitHub repository](https://github.com/dan-carroll/navigation-examples)
+
+- [dan-carroll/learn.jquery.com](https://github.com/dan-carroll/learn.jquery.com)
+
+   > Forked from [jquery/learn.jquery.com](https://github.com/jquery/learn.jquery.com). Not sure this site is up to date. The README file was updated a few months ago. But the repository files are 7 years old or older. Need to check out the website, [learn.jquery.com](https://learn.jquery.com/), to see if this is even close to being up to date.
+
 
 
 # License

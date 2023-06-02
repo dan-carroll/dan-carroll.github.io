@@ -59,6 +59,19 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
    > Examples of PWAs. Some are mine. Some are shared from other sites or tutorials. Some are derivatives of others' work. Just a sampling of what is possible and place to possibly start your own.  
    > [This project's GitHub repository](https://github.com/dan-carroll/pwa-examples)
 
+- [dan-carroll/pwa-starter](https://github.com/dan-carroll/pwa-starter)
+
+   > Forked from [pwa-builder/pwa-starter](https://github.com/pwa-builder/pwa-starter). Thought I might want to make some changes to this app to suit me. So far, haven't really used it. So, no need to make any changes.  
+   > This repo fork may never be changed, or used, and will be removed.
+
+- [html-games](https://github.com/dan-carroll/html-games)
+
+   > HTML, or Javascript, games to increase web app programming skills. And to have fun. Have more to do with this and need to create an index.html file for web access.
+
+- [simple-scaffold](https://github.com/dan-carroll/simple-scaffold)
+
+   > Project to create scaffolding, or possibly a template, to wrap around README files for presentation on the web.
+
 
 
 # License

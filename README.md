@@ -91,6 +91,15 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > Forked from [jquery/learn.jquery.com](https://github.com/jquery/learn.jquery.com). Not sure this site is up to date. The README file was updated a few months ago. But the repository files are 7 years old or older. Need to check out the website, [learn.jquery.com](https://learn.jquery.com/), to see if this is even close to being up to date.
 
+- [pool-demo](https://github.com/dan-carroll/pool-demo)
+
+   > This pool demo is meant to be proof of concept type of project. It has a long way to go to be a viable demo. Other projects have taken precedence.  
+   > [This project's GitHub repository](https://github.com/dan-carroll/pool-demo)
+
+- [Your GitHub Learning Lab Repository for GitHub Pages](https://dan-carroll.github.io/github-pages-with-jekyll/)
+
+   > [Repository for GitHub Learning Lab course](https://github.com/dan-carroll/github-pages-with-jekyll)
+
 
 
 # License

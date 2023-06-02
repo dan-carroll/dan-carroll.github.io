@@ -5,8 +5,12 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
 ## About Me
 
+[https://github.com/dan-carroll](https://github.com/dan-carroll)
+> My GitHub profile page.
+
 [https://github.com/dan-carroll/dan-carroll.github.io](https://github.com/dan-carroll/dan-carroll.github.io)
-> The repository housing this README file. I am attempting to bring all of my online activities to one place. So these lists are part of that effort. My homepage is at [Dan Carroll's Github Pages](https://dan-carroll.github.io/).
+> This is the repository housing this README file. I am attempting to bring all of my online activities to one place. So these lists are part of that effort. This repository contains the code for my homepage at [Dan Carroll's Github Pages](https://dan-carroll.github.io/).
+
 
 
 # License

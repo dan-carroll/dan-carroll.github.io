@@ -21,6 +21,24 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > My portfolio which is also accessible from my [homepage](https://dan-carroll.github.io/).
 
+## My Blogs -- and Other Sites
+
+- [Dan Reads](https://dan-carroll.github.io/danreads/)
+
+   > My reading list. And other books I like. Plus books I might recommend. Even thinking about adding kids books since I am the proud Papa (grandpa) of 9.
+
+- [365 Day Graphic Design Challenge](https://dan-carroll.github.io/graphic-design-challenge/)
+
+   > The results of my own personal challenge to learn how, or just do, a new graphic each day for 365 days. Not necessarily all contiguous days as I do tend to become side-tracked at times by other projects.
+
+- [My Python Pages](https://dancarroll.pythonanywhere.com/)
+
+   > My site for much of my meandering journey in learning, and sharing, my work in the programming language of the moment -- Python.
+
+- [Rather Be Coding](#)
+
+   > My blog about programming. Details and the blog itself is coming (back). Temporarily offline at the moment.
+
 
 
 # License

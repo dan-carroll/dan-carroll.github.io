@@ -11,6 +11,12 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 [https://github.com/dan-carroll/dan-carroll.github.io](https://github.com/dan-carroll/dan-carroll.github.io)
 > This is the repository housing this README file. I am attempting to bring all of my online activities to one place. So these lists are part of that effort. This repository contains the code for my homepage at [Dan Carroll's Github Pages](https://dan-carroll.github.io/).
 
+[dan-carroll-bio](https://github.com/dan-carroll/dan-carroll-bio)
+> My personal Bio. It is on the menu and linked to in [My GitHub Pages homepage](https://dan-carroll.github.io/). The original repository is at [chuckgroom/onepage-bio](https://github.com/chuckgroom/onepage-bio).
+
+[dan-carroll-portfolio](https://github.com/dan-carroll/dan-carroll-portfolio)
+> My portfolio which is also accessible from my [homepage](https://dan-carroll.github.io/).
+
 
 
 # License

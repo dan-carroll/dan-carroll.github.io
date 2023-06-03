@@ -28,11 +28,13 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
 - [Dan Reads](https://dan-carroll.github.io/danreads/)
 
-   > My reading list. And other books I like. Plus books I might recommend. Even thinking about adding kids books since I am the proud Papa (grandpa) of 9.
+   > My reading list. And other books I like. Plus books I might recommend. Even thinking about adding kids books since I am the proud Papa (grandpa) of 9.  
+   > [This project's GitHub repository](https://github.com/dan-carroll/danreads)
 
 - [365 Day Graphic Design Challenge](https://dan-carroll.github.io/graphic-design-challenge/)
 
-   > The results of my own personal challenge to learn how, or just do, a new graphic each day for 365 days. Not necessarily all contiguous days as I do tend to become side-tracked at times by other projects.
+   > The results of my own personal challenge to learn how, or just do, a new graphic each day for 365 days. Not necessarily all contiguous days as I do tend to become side-tracked at times by other projects.  
+   > [This project's GitHub repository](https://github.com/dan-carroll/graphic-design-challenge)
 
 - [My Python Pages](https://dancarroll.pythonanywhere.com/)
 

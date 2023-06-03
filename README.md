@@ -97,6 +97,11 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > Forked from [jquery/learn.jquery.com](https://github.com/jquery/learn.jquery.com). Not sure this site is up to date. The README file was updated a few months ago. But the repository files are 7 years old or older. Need to check out the website, [learn.jquery.com](https://learn.jquery.com/), to see if this is even close to being up to date.
 
+- [PyInstaller 5.11](https://github.com/dan-carroll/pyinstaller)
+
+   > Forked from [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller). PyInstaller bundles a Python application and all its dependencies into a single package. The user can run the packaged app without installing a Python interpreter or any modules.  
+   > Looks like a promising project that I would like (need) to add to my toolbox.
+
 ## Not Ready for Prime Time
 
 > Project ideas that have yet to get off the ground (not started yet).

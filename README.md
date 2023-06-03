@@ -35,7 +35,7 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > My site for much of my meandering journey in learning, and sharing, my work in the programming language of the moment -- Python.
 
-- [Rather Be Coding](#)
+- [Rather Be Coding](#) ![star icon](/assets/img/star.png | width=16)
 
    > My blog about programming. Details and the blog itself is coming (back). Temporarily offline at the moment.
 
@@ -77,7 +77,7 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
    > Python projects from books, tutorials, and my own creativity.  
    > [This project's GitHub repository](https://github.com/dan-carroll/python-projects)
 
-- [browser-navigation-examples](https://dan-carroll.github.io/navigation-examples/) ![star icon](/assets/img/star.png)
+- [browser-navigation-examples](https://dan-carroll.github.io/navigation-examples/)
 
    > Test and showcase differing current methods of browser navigation.  
    > [This project's GitHub repository](https://github.com/dan-carroll/navigation-examples)

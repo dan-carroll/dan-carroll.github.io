@@ -77,7 +77,7 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
    > Python projects from books, tutorials, and my own creativity.  
    > [This project's GitHub repository](https://github.com/dan-carroll/python-projects)
 
-- [browser-navigation-examples](https://dan-carroll.github.io/navigation-examples/)
+- [browser-navigation-examples](https://dan-carroll.github.io/navigation-examples/) ![star icon](/assets/img/star.png)
 
    > Test and showcase differing current methods of browser navigation.  
    > [This project's GitHub repository](https://github.com/dan-carroll/navigation-examples)

@@ -40,7 +40,7 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > My site for much of my meandering journey in learning, and sharing, my work in the programming language of the moment -- Python.
 
-- [Rather Be Coding](#) <img src="/assets/img/star.png" width="16">
+- [Rather Be Coding](https://github.com/dan-carroll/rather-be-coding) <img src="/assets/img/star.png" width="16">
 
    > My blog about programming. Details and the blog itself is coming (back). Temporarily offline at the moment.
 
@@ -60,6 +60,11 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > Examples of PWAs. Some are mine. Some are shared from other sites or tutorials. Some are derivatives of others' work. Just a sampling of what is possible and place to possibly start your own.  
    > [This project's GitHub repository](https://github.com/dan-carroll/pwa-examples)
+
+- [Simple PWA](https://github.com/dan-carroll/simplepwa) <img src="/assets/img/star.png" width="16">
+
+   > Forked from [nikkifurls/simplepwa](https://github.com/nikkifurls/simplepwa).  
+   > Simple PWA is a Progressive Web App template that provides the minimum file structure needed to create a PWA. Not my project (yet). I plan on making it my own. It hasn't been updated in awhile and needs changes. Changes that I plan to implement to fit what I want (need).
 
 - [html-games](https://github.com/dan-carroll/html-games)
 
@@ -106,10 +111,14 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
 > Project ideas that have yet to get off the ground (not started yet).
 
+- [my-florida](https://github.com/dan-carroll/my-florida) <img src="/assets/img/star.png" width="16">
+
 - [pool-demo](https://github.com/dan-carroll/pool-demo)
 
    > This pool demo is meant to be proof of concept type of project. It has a long way to go to be a viable demo. Other projects have taken precedence.  
    > [This project's GitHub repository](https://github.com/dan-carroll/pool-demo)
+
+- [favorite-recipes](https://github.com/dan-carroll/favorite-recipes)
 
 - [Your GitHub Learning Lab Repository for GitHub Pages](https://dan-carroll.github.io/github-pages-with-jekyll/)
 

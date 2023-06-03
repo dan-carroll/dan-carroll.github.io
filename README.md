@@ -9,6 +9,9 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > My GitHub profile page.
 
+- [https://github.com/dan-carroll/dan-carroll](https://github.com/dan-carroll/dan-carroll)
+   > The README file here is tied to [my GitHub profile page](https://github.com/dan-carroll) and shows up there.
+
 - [https://github.com/dan-carroll/dan-carroll.github.io](https://github.com/dan-carroll/dan-carroll.github.io)
 
    > This is the repository housing this README file. I am attempting to bring all of my online activities to one place. So these lists are part of that effort. This repository contains the code for my homepage at [Dan Carroll's Github Pages](https://dan-carroll.github.io/).
@@ -43,9 +46,6 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > These may not be original works of mine. Could be forkings of interesting projects I wanted to play around with. Or could be projects created from some of the lessons in the GitHub Lab. This is an attempt to organize things a bit here on GitHub.
 
-- [https://github.com/dan-carroll/dan-carroll](https://github.com/dan-carroll/dan-carroll)
-   > The README file here is tied to [my GitHub profile page](https://github.com/dan-carroll) and shows up there.
-
 - [Collection of Development Books Available to Read Online](https://dan-carroll.github.io/online-development-books/)
 
    > The title above says it all. Follow this link to the GitHub project itself: [https://github.com/dan-carroll/online-development-books](https://github.com/dan-carroll/online-development-books).
@@ -63,7 +63,7 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > HTML, or Javascript, games to increase web app programming skills. And to have fun. Have more to do with this and need to create an index.html file for web access.
 
-- [simple-scaffold](https://github.com/dan-carroll/simple-scaffold)
+- [simple-scaffold](https://github.com/dan-carroll/simple-scaffold) <img src="/assets/img/star.png" width="16">
 
    > Project to create scaffolding, or possibly a template, to wrap around README files for presentation on the web.
 

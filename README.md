@@ -59,11 +59,6 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
    > Examples of PWAs. Some are mine. Some are shared from other sites or tutorials. Some are derivatives of others' work. Just a sampling of what is possible and place to possibly start your own.  
    > [This project's GitHub repository](https://github.com/dan-carroll/pwa-examples)
 
-- [dan-carroll/pwa-starter](https://github.com/dan-carroll/pwa-starter)
-
-   > Forked from [pwa-builder/pwa-starter](https://github.com/pwa-builder/pwa-starter). Thought I might want to make some changes to this app to suit me. So far, haven't really used it. So, no need to make any changes.  
-   > This repo fork may never be changed, or used, and will be removed.
-
 - [html-games](https://github.com/dan-carroll/html-games)
 
    > HTML, or Javascript, games to increase web app programming skills. And to have fun. Have more to do with this and need to create an index.html file for web access.
@@ -87,9 +82,22 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
    > Test and showcase differing current methods of browser navigation.  
    > [This project's GitHub repository](https://github.com/dan-carroll/navigation-examples)
 
+## Forks Without Changes
+
+> Interesting projects that I have yet to make use of.
+
+- [dan-carroll/pwa-starter](https://github.com/dan-carroll/pwa-starter)
+
+   > Forked from [pwa-builder/pwa-starter](https://github.com/pwa-builder/pwa-starter). Thought I might want to make some changes to this app to suit me. So far, haven't really used it. So, no need to make any changes.  
+   > This repo fork may never be changed, or used, and will be removed.
+
 - [dan-carroll/learn.jquery.com](https://github.com/dan-carroll/learn.jquery.com)
 
    > Forked from [jquery/learn.jquery.com](https://github.com/jquery/learn.jquery.com). Not sure this site is up to date. The README file was updated a few months ago. But the repository files are 7 years old or older. Need to check out the website, [learn.jquery.com](https://learn.jquery.com/), to see if this is even close to being up to date.
+
+## Not Ready for Prime Time
+
+> Project ideas that have yet to get off the ground (not started yet).
 
 - [pool-demo](https://github.com/dan-carroll/pool-demo)
 

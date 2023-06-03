@@ -35,7 +35,7 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > My site for much of my meandering journey in learning, and sharing, my work in the programming language of the moment -- Python.
 
-- [Rather Be Coding](#) ![star icon](/assets/img/star.png | width=16)
+- [Rather Be Coding](#) <img src="/assets/img/star.png" width="16">
 
    > My blog about programming. Details and the blog itself is coming (back). Temporarily offline at the moment.
 

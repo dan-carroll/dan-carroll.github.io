@@ -111,6 +111,11 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
    > Forked from [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller). PyInstaller bundles a Python application and all its dependencies into a single package. The user can run the packaged app without installing a Python interpreter or any modules.  
    > Looks like a promising project that I would like (need) to add to my toolbox.
 
+- [dan-carroll/SMF2.1](https://github.com/dan-carroll/SMF2.1)
+
+   > Forked from [SimpleMachines/SMF](https://github.com/SimpleMachines/SMF). This is a SMF 2.1 development repository. The software is licensed under BSD 3-clause license. I did make use of SMF for a project some 10 years ago.  
+   > [Simple Machines Forum](https://www.simplemachines.org/) — SMF in short — is free and open-source community forum software, delivering professional grade features in a package that allows you to set up your own online community within minutes!
+
 ## Not Ready for Prime Time
 
 > Project ideas that have yet to get off the ground (not started yet).
@@ -126,7 +131,7 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
 - [Your GitHub Learning Lab Repository for GitHub Pages](https://dan-carroll.github.io/github-pages-with-jekyll/)
 
-   > [Repository for GitHub Learning Lab course](https://github.com/dan-carroll/github-pages-with-jekyll)
+   > [Repository for GitHub Learning Lab course](https://github.com/dan-carroll/github-pages-with-jekyll) and a start for a new blog.
 
 - [tlcnails](https://github.com/dan-carroll/SmiLynn)
 
@@ -139,6 +144,21 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 - [gettingfit](https://github.com/dan-carroll/gettingfit)
 
    > (planned) Blog for health and getting fit topics.
+
+- [etz_chayim_lakeland_web](https://github.com/dan-carroll/etz_chayim_lakeland_web)
+
+   > (planned) New web site for [MyEtzChayim.Org](https://www.myetzchayim.org/), or The Tree of Life Lakeland.
+
+- [etz_chayim_lakeland_mobile](https://github.com/dan-carroll/etz_chayim_lakeland_mobile)
+
+   > (proposed) Mobile, or PWA, web app for myetzchayim.org.
+
+- [Let's Write a Python Quote Bot!](https://github.com/dan-carroll/python-random-quote)
+
+   > This repository will get you started with building a quote bot in Python. It's meant to be used along with the [Learning Lab](https://lab.github.com/) intro to Python.
+
+
+
 
 # License
 

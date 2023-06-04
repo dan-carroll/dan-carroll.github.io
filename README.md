@@ -89,6 +89,10 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
    > Test and showcase differing current methods of browser navigation.  
    > [This project's GitHub repository](https://github.com/dan-carroll/navigation-examples)
 
+- [python-bottle-bootstrap](https://github.com/dan-carroll/python-bottle-bootstrap) <img src="/assets/img/star.png" width="16">
+
+   > Just playing around with Python and creating a web app with Bootstrap. The Bottle framework is a good way to get down and dirty with Python web app builiding without doing all of the work yourself.
+
 ## Forks Without Changes
 
 > Interesting projects that I have yet to make use of.
@@ -124,7 +128,17 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > [Repository for GitHub Learning Lab course](https://github.com/dan-carroll/github-pages-with-jekyll)
 
+- [tlcnails](https://github.com/dan-carroll/SmiLynn)
 
+   > (planned) TLC Nails with Tammy blog.
+
+- [technologyisgreat](https://github.com/dan-carroll/technologyisgreat)
+
+   > (planned) Blog about technology to include coding and single board computers.
+
+- [gettingfit](https://github.com/dan-carroll/gettingfit)
+
+   > (planned) Blog for health and getting fit topics.
 
 # License
 

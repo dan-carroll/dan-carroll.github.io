@@ -97,6 +97,10 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
 > Interesting projects that I have yet to make use of.
 
+- [The Hacker theme](https://github.com/dan-carroll/hacker)
+
+   > Forked from [pages-themes/hacker](https://github.com/pages-themes/hacker). *Hacker is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/hacker), or even [use it today](https://github.com/dan-carroll/hacker#usage).* I am currently making use of this theme with [my own protfolio](https://github.com/dan-carroll/dan-carroll-portfolio).
+
 - [dan-carroll/pwa-starter](https://github.com/dan-carroll/pwa-starter)
 
    > Forked from [pwa-builder/pwa-starter](https://github.com/pwa-builder/pwa-starter). Thought I might want to make some changes to this app to suit me. So far, haven't really used it. So, no need to make any changes.  
@@ -110,6 +114,10 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > Forked from [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller). PyInstaller bundles a Python application and all its dependencies into a single package. The user can run the packaged app without installing a Python interpreter or any modules.  
    > Looks like a promising project that I would like (need) to add to my toolbox.
+
+- [web2py-pyinstaller](https://github.com/dan-carroll/web2py-pyinstaller)
+
+   > Forked from [nicozanf/web2py-pyinstaller](https://github.com/nicozanf/web2py-pyinstaller). How to make web2py Windows & Macintosh binaries with python 2 & 3 and pyinstaller. web2py has Windows and Macintosh binaries made with py2exe and later with bbfreeze (see Niphlod's page ). Unfortunately, while web2py nowadays runs fine with python 3.5+ these build tools are not currently compatible with python >= 3.5.
 
 - [dan-carroll/SMF2.1](https://github.com/dan-carroll/SMF2.1)
 
@@ -157,6 +165,9 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > This repository will get you started with building a quote bot in Python. It's meant to be used along with the [Learning Lab](https://lab.github.com/) intro to Python.
 
+- [dan-carroll/github-upload](https://github.com/dan-carroll/github-upload)
+
+   > **github-upload** -- Not even sure what this one was about. Something to do with a github lab project. This link, [lab.github.com/githubtraining/uploading-your-project-to-github](https://lab.github.com/githubtraining/uploading-your-project-to-github), is all I know about the lab and it doesn't help much since it goes nowhere.
 
 
 

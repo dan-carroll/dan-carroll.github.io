@@ -3,6 +3,14 @@
 -------------------------
 These pages are the gateway into Dan Carroll's online world. Included are my GitHub activities as well as work on other sites. This site is created and maintained with Jekyll: <https://jekyllrb.com/>.
 
+   > **Note**  
+   >   
+   > As a reminder, [github.dev](https://github.dev/github/dev) can be used as a lightweight web-based editor that runs entirely in your browser. You can navigate files and source code repositories from GitHub, and make and commit code changes.  
+   >   
+   > There are two ways to go directly to a VS Code environment in your browser and start coding:  
+   > - Press the . key on any repository or pull request.  
+   > - Swap `.com` with `.dev` in the URL. For example, this repo https://github.com/github/dev becomes http://github.dev/github/dev.
+
 ## About Me
 
 - [https://github.com/dan-carroll](https://github.com/dan-carroll)
@@ -99,7 +107,7 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
 - [The Hacker theme](https://github.com/dan-carroll/hacker)
 
-   > Forked from [pages-themes/hacker](https://github.com/pages-themes/hacker). *Hacker is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/hacker), or even [use it today](https://github.com/dan-carroll/hacker#usage).* I am currently making use of this theme with [my own protfolio](https://github.com/dan-carroll/dan-carroll-portfolio).
+   > Forked from [pages-themes/hacker](https://github.com/pages-themes/hacker). *Hacker is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/hacker), or even [use it today](https://github.com/dan-carroll/hacker#usage).* I am currently making use of this theme with [my own portfolio](https://dan-carroll.github.io/dan-carroll-portfolio/).
 
 - [dan-carroll/pwa-starter](https://github.com/dan-carroll/pwa-starter)
 
@@ -123,6 +131,62 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > Forked from [SimpleMachines/SMF](https://github.com/SimpleMachines/SMF). This is a SMF 2.1 development repository. The software is licensed under BSD 3-clause license. I did make use of SMF for a project some 10 years ago.  
    > [Simple Machines Forum](https://www.simplemachines.org/) — SMF in short — is free and open-source community forum software, delivering professional grade features in a package that allows you to set up your own online community within minutes!
+
+- [An introduction to Ruby](https://github.com/dan-carroll/ruby-course)
+
+   > [lab.github.com/everydeveloper/introduction-to-ruby](https://lab.github.com/everydeveloper/introduction-to-ruby) -- This repository will help you learn the fundamentals of If/Else statements in Ruby. Just part of a github lab course.
+
+- [Get started building your personal website](https://github.com/dan-carroll/personal-website)
+
+   > Forked from [github/personal-website](https://github.com/github/personal-website). Code that'll help you kickstart a personal website that showcases your work as a software developer. 
+
+## Web2Py Repositories
+
+- [web2py/web2py](https://github.com/web2py/web2py)
+
+   > [web2py](http://www.web2py.com/): Free and open source full-stack enterprise framework for agile development of secure database-driven web-based applications, written and programmable in Python. One of my all-time favorites. Great for learning to create an enterprise level web app.
+
+- [web2py/pydal](https://github.com/web2py/pydal)
+
+   > A pure Python Database Abstraction Layer.
+
+- [The official web2py book](https://github.com/web2py/web2py-book)
+
+   > [Read the book online](http://web2py.com/books).
+
+- [web2py-starter](https://github.com/mjbeller/web2py-starter)
+
+   > An alternative to the standard web2py Welcome app based on the AdminLTE open source theme and template.
+
+- [Web2py Appliances](https://github.com/mdipierro/web2py-appliances)
+
+   > Set of Example Web2py Appliances.
+
+- [web2py Vue Scaffold App](https://github.com/web2py/scaffold)
+
+   > This app provides an example of a scaffold app.
+
+## Some Python Repositories
+
+- [pandas: powerful Python data analysis toolkit](https://github.com/pandas-dev/pandas)
+
+   > [pandas](https://pandas.pydata.org/): Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more.
+
+- [matplotlib](https://github.com/matplotlib/matplotlib)
+
+   > [matplotlib](https://matplotlib.org/stable/): plotting with Python. Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+
+- [scipy/scipy](https://github.com/scipy/scipy)
+
+   > [SciPy](https://scipy.org/) library main repository. SciPy (pronounced "Sigh Pie") is an open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
+
+- [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
+
+   > [scikit-learn](https://scikit-learn.org/): machine learning in Python.
+
+- [numpy/numpy](https://github.com/numpy/numpy)
+
+   > [NumPy](https://numpy.org/) is the fundamental package for scientific computing with Python.
 
 ## Not Ready for Prime Time
 

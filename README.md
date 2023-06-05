@@ -74,6 +74,14 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
    > Forked from [nikkifurls/simplepwa](https://github.com/nikkifurls/simplepwa).  
    > Simple PWA is a Progressive Web App template that provides the minimum file structure needed to create a PWA. Not my project (yet). I plan on making it my own. It hasn't been updated in awhile and needs changes. Changes that I plan to implement to fit what I want (need).
 
+- [PWA Starter Kit](https://github.com/dan-carroll/pwa-starter-kit)
+
+   > Starter templates for building full-featured Progressive Web Apps from web components.  
+   >   
+   > Forked from [Polymer/pwa-starter-kit](https://github.com/Polymer/pwa-starter-kit). **This project is no longer under development**. If you're interested in continuing to use [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit), feel free to fork and modify it as you like.  
+   >   
+   > Which is what I plan to, that is to modify this project to meet my needs.
+
 - [html-games](https://github.com/dan-carroll/html-games)
 
    > HTML, or Javascript, games to increase web app programming skills. And to have fun. Have more to do with this and need to create an index.html file for web access.
@@ -101,9 +109,37 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > Just playing around with Python and creating a web app with Bootstrap. The Bottle framework is a good way to get down and dirty with Python web app builiding without doing all of the work yourself.
 
+- [UniversalExtractorPortable](https://github.com/dan-carroll/UniversalExtractorPortable)
+
+   > The ubiquitous Universal Extractor packaged in the ever popular PortableApps Format. [Original UniExtract by Jared Breland](https://www.legroom.net/software/uniextract).
+
+- [BatToExe](https://github.com/dan-carroll/BatToExe)
+
+   > Batch file to executable converter for Windows.
+
+- [BatToExe Portable](https://github.com/dan-carroll/BatToExePortable)
+
+   > BatToExe packed in the PortableApps format (.paf).
+
+
+
+## Awesomeness
+
+- [dan-carroll/Awesome-Projects](https://github.com/dan-carroll/Awesome-Projects)
+
+   > Started my own Awesome List.
+
+- [Awesome Python](https://github.com/vinta/awesome-python) <img src="/assets/img/star.png" width="16">
+
+   > A curated list of awesome Python frameworks, libraries, software and resources.
+
+- [Awesome PHP](https://github.com/ziadoz/awesome-php)
+
+   > A curated list of amazingly awesome PHP libraries, resources and shiny things.
+
 ## Forks Without Changes
 
-> Interesting projects that I have yet to make use of.
+> Interesting projects that I have yet to make use of, or add to.
 
 - [The Hacker theme](https://github.com/dan-carroll/hacker)
 
@@ -127,6 +163,15 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > Forked from [nicozanf/web2py-pyinstaller](https://github.com/nicozanf/web2py-pyinstaller). How to make web2py Windows & Macintosh binaries with python 2 & 3 and pyinstaller. web2py has Windows and Macintosh binaries made with py2exe and later with bbfreeze (see Niphlod's page ). Unfortunately, while web2py nowadays runs fine with python 3.5+ these build tools are not currently compatible with python >= 3.5.
 
+- [Bootstrap 4 Boilerplate](https://github.com/dan-carroll/Bootstrap-4-Boilerplate) <img src="/assets/img/star.png" width="16">
+
+   > Forked from [tomcatbuzz/Bootstrap-4-Boilerplate](https://github.com/tomcatbuzz/Bootstrap-4-Boilerplate). Need to see if there is a Bootstrap 5 version.  
+   > This is a simple Bootstrap template with responsive Navbar. This for educational use.
+
+- [(JBH) Jekyll Blog Helper](https://github.com/dan-carroll/jbh) <img src="/assets/img/star.png" width="16">
+
+   >  A bash shell script to help manage a Jekyll weblog site.
+
 - [dan-carroll/SMF2.1](https://github.com/dan-carroll/SMF2.1)
 
    > Forked from [SimpleMachines/SMF](https://github.com/SimpleMachines/SMF). This is a SMF 2.1 development repository. The software is licensed under BSD 3-clause license. I did make use of SMF for a project some 10 years ago.  
@@ -140,7 +185,17 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > Forked from [github/personal-website](https://github.com/github/personal-website). Code that'll help you kickstart a personal website that showcases your work as a software developer. 
 
+- [Javascript Tetris](https://github.com/dan-carroll/javascript-tetris) <img src="/assets/img/star.png" width="16">
+
+   > A simple javascript tetris game. Forked from [jakesgordon/javascript-tetris](https://github.com/jakesgordon/javascript-tetris).  
+   > [Javascript Tetris tutorial](https://codeincomplete.com/articles/javascript-tetris/)
+
 ## Web2Py Repositories
+
+- [web2py/py4web](https://github.com/web2py/py4web)
+
+   > [PY4WEB](https://py4web.com/) is a web framework for rapid development of efficient database driven web applications. It is an evolution of the popular web2py framework but much faster and slicker.  
+   > Official documentation site: [https://py4web.com/_documentation](https://py4web.com/_documentation)
 
 - [web2py/web2py](https://github.com/web2py/web2py)
 
@@ -168,6 +223,14 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
 ## Some Python Repositories
 
+- [python/cpython](https://github.com/python/cpython)
+
+   > The [Python](https://www.python.org/) programming language.
+
+- [portable_python](https://github.com/dan-carroll/portable_python) <img src="/assets/img/star.png" width="16">
+
+   > Great programming language portabilized for Windows. The original Portable Python was created by Perica Zivkovic and was hosted at [PortablePython.com](http://www.portablepython.com/). His latest copies are available [here](https://github.com/dan-carroll/portable_python/releases/tag/portable-python).
+
 - [pandas: powerful Python data analysis toolkit](https://github.com/pandas-dev/pandas)
 
    > [pandas](https://pandas.pydata.org/): Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more.
@@ -187,6 +250,44 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 - [numpy/numpy](https://github.com/numpy/numpy)
 
    > [NumPy](https://numpy.org/) is the fundamental package for scientific computing with Python.
+
+- [scrapy/scrapy](https://github.com/scrapy/scrapy)
+
+   > Scrapy, a fast high-level web crawling & scraping framework for Python.
+
+- [python-patterns](https://github.com/faif/python-patterns)
+
+   > A collection of design patterns and idioms in Python.
+
+- [Python tools for penetration testers](https://github.com/dloss/python-pentest-tools)
+
+   > If you are involved in vulnerability research, reverse engineering or pentesting, I suggest to try out the Python programming language. It has a rich set of useful libraries and programs. This page lists some of them.
+
+## Some Interesting Projects
+
+- [First Contributions](https://github.com/firstcontributions/first-contributions) <img src="/assets/img/star.png" width="16"> (**tutorial**)
+
+   >  Help beginners to contribute to open source projects. This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+
+- [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch) <img src="/assets/img/star.png" width="16">
+
+   > Step-by-step tutorial to build a modern JavaScript stack.
+
+- [Awesome-Xamarin](https://github.com/XamSome/awesome-xamarin)
+
+   > A collection of interesting libraries/tools for Xamarin mobile projects.
+
+- [FreeLAN](https://github.com/freelan-developers/freelan)
+
+   > A peer-to-peer, secure, easy-to-setup, multi-platform, open-source, highly-configurable VPN software. [FreeLAN official website](http://www.freelan.org/).
+
+- [Universal Extractor 2 (UniExtract2)](https://github.com/Bioruebe/UniExtract2)
+
+   > Universal Extractor 2 is a tool designed to extract files from any type of extractable file. Get the latest version [here](https://github.com/Bioruebe/UniExtract2/releases/download/v2.0.0-rc.3/UniExtractRC3.zip).
+
+- [Xamarin.Essentials](https://github.com/xamarin/Essentials)
+
+   > Xamarin.Essentials gives developers essential cross-platform APIs for their mobile applications.
 
 ## Not Ready for Prime Time
 

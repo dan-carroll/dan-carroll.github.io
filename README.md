@@ -115,13 +115,12 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
 - [BatToExe](https://github.com/dan-carroll/BatToExe)
 
-   > Batch file to executable converter for Windows.
+   > Batch file to executable converter for Windows.  
+   > Another version is available at [islamadel/bat2exe](https://github.com/islamadel/bat2exe) and [https://bat2exe.net/](https://bat2exe.net/).
 
 - [BatToExe Portable](https://github.com/dan-carroll/BatToExePortable)
 
    > BatToExe packed in the PortableApps format (.paf).
-
-
 
 ## Awesomeness
 
@@ -162,6 +161,11 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 - [web2py-pyinstaller](https://github.com/dan-carroll/web2py-pyinstaller)
 
    > Forked from [nicozanf/web2py-pyinstaller](https://github.com/nicozanf/web2py-pyinstaller). How to make web2py Windows & Macintosh binaries with python 2 & 3 and pyinstaller. web2py has Windows and Macintosh binaries made with py2exe and later with bbfreeze (see Niphlod's page ). Unfortunately, while web2py nowadays runs fine with python 3.5+ these build tools are not currently compatible with python >= 3.5.
+
+- [dan-carroll/python-in-xampp-for-windows](https://github.com/dan-carroll/python-in-xampp-for-windows) <img src="/assets/img/star.png" width="16">
+
+   > Run python in xampp for windows 18.09.12, 01:45 The setup takes nearly 2 min.  
+   > Need to verify it works and bring it up to date with the latest versions of xampp and python.
 
 - [Bootstrap 4 Boilerplate](https://github.com/dan-carroll/Bootstrap-4-Boilerplate) <img src="/assets/img/star.png" width="16">
 

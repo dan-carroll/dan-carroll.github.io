@@ -162,10 +162,26 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > Forked from [nicozanf/web2py-pyinstaller](https://github.com/nicozanf/web2py-pyinstaller). How to make web2py Windows & Macintosh binaries with python 2 & 3 and pyinstaller. web2py has Windows and Macintosh binaries made with py2exe and later with bbfreeze (see Niphlod's page ). Unfortunately, while web2py nowadays runs fine with python 3.5+ these build tools are not currently compatible with python >= 3.5.
 
+- [dan-carroll/WinPythonPortable](https://github.com/dan-carroll/WinPythonPortable)  <img src="/assets/img/star.png" width="16">
+
+   > WinPython in PortbleApps.com Format. Stuck at [WinPython Portable 3.5.3.1 Dev Test 1](https://sourceforge.net/projects/mwayne/files/WinPythonPortable/WinPythonPortable_3.5.3.1_Dev_Test_1_English.paf.exe/download) stored on SourceForge. **Needs updating**. 
+
+- [dan-carroll/pyYourAdmin](https://github.com/dan-carroll/pyYourAdmin) <img src="/assets/img/star.png" width="16">
+
+   > pyYourAdmin is a copy of phpMyAdmin written in Python(Flask) and Javascript. **Need to give this one a go on a live project**.
+
+- [dan-carroll/PyAdmin](https://github.com/dan-carroll/PyAdmin) <img src="/assets/img/star.png" width="16">
+
+   > Database manager based on PHPMyAdmin written with Python. **Needs testing, and possibly updating**.
+
 - [dan-carroll/python-in-xampp-for-windows](https://github.com/dan-carroll/python-in-xampp-for-windows) <img src="/assets/img/star.png" width="16">
 
    > Run python in xampp for windows 18.09.12, 01:45 The setup takes nearly 2 min.  
    > Need to verify it works and bring it up to date with the latest versions of xampp and python.
+
+- [dan-carroll/pywdbms](https://github.com/dan-carroll/pywdbms)
+
+   > Python-based Web Database Management System written using Flask.
 
 - [Bootstrap 4 Boilerplate](https://github.com/dan-carroll/Bootstrap-4-Boilerplate) <img src="/assets/img/star.png" width="16">
 
@@ -338,7 +354,7 @@ These pages are the gateway into Dan Carroll's online world. Included are my Git
 
    > **github-upload** -- Not even sure what this one was about. Something to do with a github lab project. This link, [lab.github.com/githubtraining/uploading-your-project-to-github](https://lab.github.com/githubtraining/uploading-your-project-to-github), is all I know about the lab and it doesn't help much since it goes nowhere.
 
-
+- [Hello-World](https://github.com/dan-carroll/Hello-World)
 
 # License
 

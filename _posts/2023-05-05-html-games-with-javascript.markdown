@@ -5,8 +5,6 @@ date:   2023-05-05
 categories: dan-carroll github javascript games
 ---
 
-* {{ page.title }}
-
 Games are a fun way to spend your time. They can be relaxing or exciting, even educational. Some are quite challenging and can be great problem-solving mental exercises. So, however you enjoy your games, creating and playing your own creations can be a great way to learn programming techniques.
 
 Created a new repository, [html-games](https://github.com/dan-carroll/html-games), to have a playground for learning HTML, CSS, and JavaScript methods outside of what I would normally encounter designing websites. Plus it should be fun. To explore the results of this endeavor, [visit {{ page.title }}](https://dan-carroll.github.io/html-games/).

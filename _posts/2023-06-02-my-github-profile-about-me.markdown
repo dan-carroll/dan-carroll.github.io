@@ -9,4 +9,4 @@ I don't know how I missed this, but [adding a GitHub profile readme file](https:
 
 It was actually quite fun, and a bit cheezy, adding in some details about myself mixed in with some emojis. If you haven't added a profile readme to your profile yet, give it a go. I also have expanded my README file in my [github.io code page](https://github.com/dan-carroll/dan-carroll.github.io).
 
-On this Readme I have included some notes, lists of my online projects and other projects that have more than a passing interest to me. This is for me to keep track of a few things. And for others to obtain an idea of some of what interests me. So if you would like to know more about my technical interests, follow [this link]().
+On this Readme I have included some notes, lists of my online projects and other projects that have more than a passing interest to me. This is for me to keep track of a few things. And for others to obtain an idea of some of what interests me. So if you would like to know more about my technical interests, follow [this link](https://dan-carroll.github.io/my_readme.html).

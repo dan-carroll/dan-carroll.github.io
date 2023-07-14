@@ -18,4 +18,6 @@ Another cool thing about utilizing the micro-framework Bottle is the control it 
 
 So, give it a try yourself. Try Bottle out. Also, take a look at Web2Py. It provides a fast way to learn how to create your own full stack web applications.
 
+<p align="center">
 [![bottle framework](https://bottlepy.org/docs/dev/_static/logo_nav.png "Bottle Framework")](https://bottlepy.org/docs/dev/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![web2py framework](/assets/img/web2py.png "Web2Py Web Framework")](http://www.web2py.com/)
+</p>
